@@ -17,10 +17,13 @@ footer{
   background-color: floralwhite;
   text-align: center;
 }
+header{
+  background-color: burlywood;
 
-.navbar{
-  display: block
 }
-.nav-button{
+
+.nav-item{
+  color: blueviolet;
+  font-size: 1.5rem;
   
 }

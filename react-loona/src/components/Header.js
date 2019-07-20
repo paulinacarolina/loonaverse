@@ -1,13 +1,16 @@
 
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function Header(){
     return(
-        <div className="navbar">
-        <nav>
-        <div className="nav-button" > YVES </div>
-        <div className="nav-button"> CHUU  </div>
-        <div className="nav-button"> CHOERRY </div>
-        </nav>
+        <div className="nav justify-content-center">
+            <div className="navbar">
+                <a href="#" class="nav-item nav-link">Yves</a>
+                <a href="#" class="nav-item nav-link">Chuu</a>
+                <a href="#" class="nav-item nav-link">Choerry</a>
+                <a href="#" class="nav-item nav-link">Heejin</a>
+            </div>
         </div>
     )
 }
