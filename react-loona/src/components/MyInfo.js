@@ -3,22 +3,10 @@ import React from 'react';
 function MyInfo(){
     return(
         <div>
-        <h1>Paulina Carolina</h1>
-        <p>I do coding shit and hang out with friends</p>
+        <h1>LOONA</h1>
+        <p>One of the most iconic groups from korea </p>
 
-        <ul>
-            My Ideal spots to go on vacations
-            <li>
-                Korea
-            </li>
-            <li>
-                Japan
-                </li>
-                <li>
-                    LA
-                </li>
-
-        </ul>
+        
         </div>
     )
 }

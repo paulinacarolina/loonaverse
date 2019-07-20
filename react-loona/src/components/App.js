@@ -8,8 +8,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
    render(){
     return(
       <div> 
-        <Header/>
+        
         <MyInfo/>
+        <Header/>
         <Footer/>
       </div>
      
