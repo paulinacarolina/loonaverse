@@ -28,3 +28,22 @@ footer{
   font-size: 1.5rem;
   
 }
+.mainCarousel{
+  display: table;
+  margin: 0 auto;
+
+}
+.carouselItem{
+  display: table;
+  margin: 0 auto;
+}
+.wrapp{
+  width: 100%;
+  height: 25rem;
+  background-color: #f4c4f3;
+  text-align: center;
+  
+}
+.logo{
+  width: 20%;
+}
