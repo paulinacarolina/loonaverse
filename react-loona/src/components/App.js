@@ -9,12 +9,16 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
    render(){
     return(
-      <div> 
+      <div className="mainDiv"> 
        <Welcome />
-        <MyInfo/>
+       <div className="body">
+       <MyInfo/>
         <MainCarousel/>
         <Header/>
         <Footer/>
+
+       </div>
+       
       </div>
      
     );

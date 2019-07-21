@@ -3,7 +3,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 function MainCarousel(){
     return(
-        <div className="col-lg-6 mainCarousel">
+        <div className="col-sm-4 mainCarousel">
             <Carousel>
                 <div className="carouselItem" >
                     <img src="https://c4.wallpaperflare.com/wallpaper/445/164/897/k-pop-loona-women-asian-wallpaper-8950f8bd417afd9bb607781f9051961d.jpg" />

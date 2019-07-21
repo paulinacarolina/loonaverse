@@ -4,13 +4,14 @@ import Logo from './Logo'
 
 function Welcome(){
     return(
-        <div className="wrapp">
+        <div className="container-fluid wrapp">
           
-            <Logo/>
-
-            Welcome to Loona Universe
-        </div>
-     
+                <div className="mainBorder"> 
+                   
+                   <h1 class="blink-me"> Welcome to Loona Universe  </h1> 
+               
+       </div>
+     </div>
     )
 }
 export default Welcome;
