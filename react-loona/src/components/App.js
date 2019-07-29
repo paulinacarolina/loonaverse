@@ -13,11 +13,13 @@ class App extends React.Component {
     return (
       <div >
         <Welcome />
+
         <MembersGallery/>
         <MembersGallery/>
         <MembersGallery/>
         <MyInfo />
         <Logo />
+     
         <Footer />
        
       </div>
